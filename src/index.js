@@ -5,7 +5,7 @@ import App from "./App";
 import store from "./redux/store";
 import { Provider } from "react-redux";
 
-// khoa da sua
+// khoa da  
 
 ReactDOM.render(
   <Provider store={store}>
